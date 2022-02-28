@@ -121,6 +121,7 @@ namespace Sente4
                 Console.WriteLine(employ.ToString());
             }
 
+            Console.ReadKey();
         }
 
         /// <summary>
